@@ -7,4 +7,20 @@ This short flash animation was a project I created for a class in high school du
 
 ---
 
-![picture](https://github.com/EnEmerson/leesin-stick-animation/blob/master/resources/proj_launch.png)
+![player shooting sound wave](https://github.com/EnEmerson/leesin-stick-animation/blob/master/resources/proj_launch.png "player shooting sound wave")
+
+---
+
+![player flying kick](https://github.com/EnEmerson/leesin-stick-animation/blob/master/resources/player_fly.png "player flying kick")
+
+---
+
+![player finishing move](https://github.com/EnEmerson/leesin-stick-animation/blob/master/resources/finish_him.png "player finishing move")
+
+---
+
+"I fear not the man who has practiced 10,000 kicks once, 
+
+but I fear the man who has practiced one kick 10,000 times."
+
+~Bruce Lee
