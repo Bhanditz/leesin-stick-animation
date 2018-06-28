@@ -1,9 +1,8 @@
 # leesin-stick-animation
-Simple flash animation which demonstrates buttons triggering events
 
 ---
 
-This short flash animation was a project I created for a class in high school during 2016. It references the very popular mutliplayer online battle arena game League of Legends and its character Lee Sin. This file can be viewed through a swift file manager or any web browser that supports flash animation.
+### Description: This is a simple flash animation which demonstrates buttons triggering events, I created this for a class in high school during 2016. It references the *very popular* mutliplayer\-online\-battle\-arena game "League of Legends" and one of its characters: Lee Sin. This file can be viewed through a swift file player or any web browser that supports flash animation.
 
 ---
 
